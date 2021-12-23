@@ -16,11 +16,11 @@
 
 ## 项目截图
 
-| ![](Img/01.jpg) | ![](Img/02.jpg) | ![](Img/03.jpg) | ![](Img/04.jpg) |
+| ![](img/01.jpg) | ![](img/02.jpg) | ![](img/03.jpg) | ![](img/04.jpg) |
 | --- | --- | --- | --- |
-| ![](Img/05.jpg) | ![](Img/06.jpg) | ![](Img/07.jpg) | ![](Img/08.jpg) |
-| ![](Img/09.jpg) | ![](Img/10.jpg) | ![](Img/11.jpg) | ![](Img/12.jpg) |
-| ![](Img/13.jpg) | ![](Img/14.jpg) | ![](Img/15.jpg) | ![](Img/16.jpg) |
+| ![](img/05.jpg) | ![](img/06.jpg) | ![](img/07.jpg) | ![](img/08.jpg) |
+| ![](img/09.jpg) | ![](img/10.jpg) | ![](img/11.jpg) | ![](img/12.jpg) |
+| ![](img/13.jpg) | ![](img/14.jpg) | ![](img/15.jpg) | ![](img/16.jpg) |
 
 ## 体验
     - 暂时不支持下载~，可以 `clone` 源码编译运行在 `iOS/Android` 设备上。
