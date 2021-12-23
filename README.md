@@ -15,12 +15,11 @@
 - [Flutter中文网](https://flutterchina.club/)
 
 ## 项目截图
-
-| ![](img/01.jpg) | ![](img/02.jpg) | ![](img/03.jpg) | ![](img/04.jpg) |
-| --- | --- | --- | --- |
-| ![](img/05.jpg) | ![](img/06.jpg) | ![](img/07.jpg) | ![](img/08.jpg) |
-| ![](img/09.jpg) | ![](img/10.jpg) | ![](img/11.jpg) | ![](img/12.jpg) |
-| ![](img/13.jpg) | ![](img/14.jpg) | ![](img/15.jpg) | ![](img/16.jpg) |
+| ![](https://gitee.com/liuShuGuo/storage-img/raw/master/202112231723893.jpg) | ![](https://gitee.com/liuShuGuo/storage-img/raw/master/202112231724436.jpg) | ![](https://gitee.com/liuShuGuo/storage-img/raw/master/202112231724437.jpg) | ![](https://gitee.com/liuShuGuo/storage-img/raw/master/202112231724438.jpg) |
+| :----------------------------------------------------------: | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://gitee.com/liuShuGuo/storage-img/raw/master/202112231724439.jpg) | ![](https://gitee.com/liuShuGuo/storage-img/raw/master/202112231724440.jpg) | ![](https://gitee.com/liuShuGuo/storage-img/raw/master/202112231724441.jpg) | ![](https://gitee.com/liuShuGuo/storage-img/raw/master/202112231724442.jpg) |
+| ![](https://gitee.com/liuShuGuo/storage-img/raw/master/202112231724443.jpg) | ![](https://gitee.com/liuShuGuo/storage-img/raw/master/202112231724444.jpg) | ![](https://gitee.com/liuShuGuo/storage-img/raw/master/202112231724445.jpg) | ![](https://gitee.com/liuShuGuo/storage-img/raw/master/202112231724446.jpg) |
+| ![](https://gitee.com/liuShuGuo/storage-img/raw/master/202112231724447.jpg) | ![](https://gitee.com/liuShuGuo/storage-img/raw/master/202112231724448.jpg) | ![](https://gitee.com/liuShuGuo/storage-img/raw/master/202112231724449.jpg) | ![](https://gitee.com/liuShuGuo/storage-img/raw/master/202112231724450.jpg) |
 
 ## 体验
     - 暂时不支持下载~，可以 `clone` 源码编译运行在 `iOS/Android` 设备上。
